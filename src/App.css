@@ -35,13 +35,15 @@
 }
 
 .homepage-bg{
-  
-  background-image: url(${/images/TempStreamBg.jpg});
-  /* text-align: center;
-  height: 100%;
-  width: 100%;
-
-  background-size: cover;
+  background-image: url('./images/TempStreamBg.jpg');
+  text-align: 'center';
+  height: 100dvh;
+  width: 100dvw;
+  box-sizing: border-box;
+  background-size:100% 100%;
+  object-fit: cover;
+  background-repeat: no-repeat; 
   background-position: center;
-  background-repeat: no-repeat; */
+  overflow-x:scroll;
+  overflow-y:scroll; 
 }
