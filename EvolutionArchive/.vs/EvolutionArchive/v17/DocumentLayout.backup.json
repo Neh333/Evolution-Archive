@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahugh\\source\\repos\\Evolution-Archive\\EvolutionArchive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9694133A-FCB7-4B3E-9545-F97517CECB30}|evolutionarchive.esproj|c:\\users\\ahugh\\source\\repos\\evolution-archive\\evolutionarchive\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9694133A-FCB7-4B3E-9545-F97517CECB30}|evolutionarchive.esproj|solutionrelative:src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9694133A-FCB7-4B3E-9545-F97517CECB30}|evolutionarchive.esproj|c:\\users\\ahugh\\source\\repos\\evolution-archive\\evolutionarchive\\src\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9694133A-FCB7-4B3E-9545-F97517CECB30}|evolutionarchive.esproj|solutionrelative:src\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\ahugh\\source\\repos\\Evolution-Archive\\EvolutionArchive\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\ahugh\\source\\repos\\Evolution-Archive\\EvolutionArchive\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-13T20:48:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "navbar.tsx",
+              "DocumentMoniker": "C:\\Users\\ahugh\\source\\repos\\Evolution-Archive\\EvolutionArchive\\src\\navbar.tsx",
+              "RelativeDocumentMoniker": "src\\navbar.tsx",
+              "ToolTip": "C:\\Users\\ahugh\\source\\repos\\Evolution-Archive\\EvolutionArchive\\src\\navbar.tsx*",
+              "RelativeToolTip": "src\\navbar.tsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-13T20:41:09.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

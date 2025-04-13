@@ -11,6 +11,13 @@
   will-change: filter;
   transition: filter 300ms;
 }
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -32,19 +39,4 @@
 
 .read-the-docs {
   color: #888;
-}
-
-.homepage-bg{
-  background-image: url('./images/TempStreamBg.jpg');
-  box-sizing: border-box;
-  text-align: center;
-  height: 100dvh;
-  width: 100dvw;
-  box-sizing: border-box;
-  background-size:100% 100%;
-  object-fit: cover;
-  background-repeat: no-repeat; 
-  background-position: center;
-  /* overflow-x:scroll;
-  overflow-y:scroll;  */
 }
